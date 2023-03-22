@@ -1,6 +1,4 @@
-run = "node index.js"
-
-entrypoint = "index.js"
+run = "upm add guess;npm run dev"
 
 [nix]
-channel = "stable-22_11"
+channel = "stable-21_11"
