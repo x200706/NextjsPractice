@@ -1,3 +1,12 @@
+.manbo {
+  background-color: #ed8383;
+  font-size: smaller;
+}
+.ohyeah {
+  background-color: #9cafec;
+  font-size: smaller;
+}
+
 .container {
   padding: 0 2rem;
 }
